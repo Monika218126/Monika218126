@@ -63,6 +63,32 @@
 <img src="https://raw.githubusercontent.com/Monika218126/Monika218126/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
+## 🏆 GirlScript Summer of Code 2026
+
+
+<h2 align="center">🏆 GSSoC 2026 Badges</h2>
+
+<p align="center">
+  <img src="./gssoc-badge-role_ambassador.png" width="120" alt="Ambassador"/>
+  <img src="./gssoc-badge-first_steps.png" width="120" alt="First Steps"/>
+  <img src="./gssoc-badge-discord_verified.png" width="120" alt="Discord Verified"/>
+  <img src="./gssoc-badge-profile_complete.png" width="120" alt="Profile Complete"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-point_scorer.png" width="120" alt="Point Scorer"/>
+  <img src="./gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter"/>
+  <img src="./gssoc-badge-role_contributor.png" width="120" alt="Contributor"/>
+</p>
+
+<p align="center">
+  **Ambassador • First Steps • Discord Verified • Profile Complete**
+</p>
+
+<p align="center">
+  **Point Scorer • Bounty Hunter • Code Warrior**
+</p>
+
 ## 📫 Connect With Me
 
 <p>
