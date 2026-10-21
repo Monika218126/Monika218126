@@ -1,4 +1,4 @@
-##<h1 align="center">👋 Hi, I'm Monika!</h1>
+<h1 align="center">👋 Hi, I'm Monika!</h1>
 
 <h3 align="center">
 🎓 AI & Data Science Student | 💻 Java Developer | 🌱 Open Source Contributor
@@ -82,11 +82,11 @@
 </p>
 
 <p align="center">
-  **Ambassador • First Steps • Discord Verified • Profile Complete**
+  Ambassador • First Steps • Discord Verified • Profile Complete**
 </p>
 
 <p align="center">
-  **Point Scorer • Bounty Hunter • Code Warrior**
+  Point Scorer • Bounty Hunter • Code Warrior**
 </p>
 
 ## 📫 Connect With Me
@@ -95,6 +95,14 @@
 <a href="https://github.com/Monika218126">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/monika-m-232116326">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="monimonika1801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
